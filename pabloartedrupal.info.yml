@@ -1,0 +1,14 @@
+name: Pablo's Theme
+descriptiom: A custom theme for Pablo's site on Drupal
+core_version_requirement: ^8 || ^9
+base theme: stark
+type: theme
+
+libraries: 
+  - pabloartedrupal/custom_header
+  - pabloartedrupal/custom_scripts
+
+regions:
+  header: Header
+  content: Body
+  footer: Footer

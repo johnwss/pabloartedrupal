@@ -1,0 +1,8 @@
+custom_header:
+  css:
+    component:
+      css/Component/header.css: {}
+
+custom_scripts:
+  js:
+    js/scripts: {}
